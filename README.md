@@ -6,7 +6,7 @@ Annoying program that will open more windows when you close one of them.
 
 This program will open windows that are always on top of all other windows.  Upon closing one window, 2<sup>*n*</sup> more will appear (where *n* is the number of windows already closed, including this one).  Thirty seconds after the opening the first window, all windows will close automatically.
 
-Use this program at your own risk.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Command-line Arguments
 
