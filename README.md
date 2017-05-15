@@ -1,6 +1,6 @@
 # Close Me
 
-Annoying program that will open more windows when you close one of them.  Works on Windows with .NET Framework 4.5.2 or later.
+Program that will open more windows when you close one of them.  Works on Windows with .NET Framework 4.5.2 or later.  *Note: May cause frustration to less technically inclined users.*
 
 ## Download
 
@@ -18,3 +18,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  * `wait=n` - Wait for `n` seconds before opening windows (`n` must be a positive integer).
  * `random` - Used with `wait` only.  Will wait for a random amount of time of up to `n` seconds before opening windows instead.
  * `repeat` - Used with either `start` or `wait`.  If used with `start`, will open windows at the specified time every day (this won't work once the user restarts their computer - to do this, Close Me has to be added to the startup programs).  If used with `wait`, will open windows every `n` seconds after the previous window-opening spree ends.
+ 
