@@ -1,6 +1,10 @@
 # Close Me
 
-Annoying program that will open more windows when you close one of them.
+Annoying program that will open more windows when you close one of them.  Works on Windows with .NET Framework 4.5.2 or later.
+
+## Download
+
+[Download the executable file here](btzy.github.io/close-me/CloseMe.exe).
 
 ## Details
 
