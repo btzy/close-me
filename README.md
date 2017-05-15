@@ -17,4 +17,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  * `start=HH:mm:ss` - Open the windows at a specific time of the day (use the 24-hour clock).
  * `wait=n` - Wait for `n` seconds before opening windows (`n` must be a positive integer).
  * `random` - Used with `wait` only.  Will wait for a random amount of time of up to `n` seconds before opening windows instead.
- * `repeat` - Used with either `start` or `wait`.  If used with `start`, will open windows at the specified time every day (this won't work once the user has shut down their computer).  If used with `wait`, will open windows every `n` seconds after the previous window-opening spree ends.
+ * `repeat` - Used with either `start` or `wait`.  If used with `start`, will open windows at the specified time every day (this won't work once the user has shut down their computer - to do this, you have to add Close Me to startup programs).  If used with `wait`, will open windows every `n` seconds after the previous window-opening spree ends.
