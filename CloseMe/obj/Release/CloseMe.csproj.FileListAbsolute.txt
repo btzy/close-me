@@ -1,0 +1,8 @@
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\bin\Release\CloseMe.exe.config
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\bin\Release\CloseMe.exe
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\bin\Release\CloseMe.pdb
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\obj\Release\CloseMe.MainForm.resources
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\obj\Release\CloseMe.Properties.Resources.resources
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\obj\Release\CloseMe.csproj.GenerateResource.Cache
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\obj\Release\CloseMe.exe
+d:\bernard\documents\visual studio 2015\Projects\CloseMe\CloseMe\obj\Release\CloseMe.pdb
