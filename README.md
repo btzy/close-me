@@ -4,7 +4,7 @@ Annoying program that will open more windows when you close one of them.  Works 
 
 ## Download
 
-[Download the executable file here](btzy.github.io/close-me/CloseMe.exe).
+[Download the executable file here](https://btzy.github.io/close-me/CloseMe.exe).
 
 ## Details
 
